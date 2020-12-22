@@ -1,0 +1,164 @@
+@charset "utf-8";
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1800px;
+    height: 1080px;
+}
+
+
+
+
+.header {
+    text-align: center;
+    width: 1800px;
+}
+.contents {
+    width: 1800px;
+    padding-top: 0px;
+
+}
+
+
+.footer {
+    text-align: center;
+
+
+
+
+
+}
+
+.header_Tx {
+    color: #FEFF87;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    font-variant: normal;
+    text-align: center;
+    text-decoration: none;
+}
+.contents_Tx {
+    color: #FEFF87;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.header ul li  {
+    display: inline;
+    color: #FEFF87;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 100px;
+    height: auto;
+}
+
+.menu_01  {
+    float: left;
+    margin-left: 255px;
+}
+.menu_02 {
+    float: left;
+    margin-left: 68px;
+}
+.menu_03 {
+    float: left;
+    margin-left: 68px;
+    margin-top: 0px;
+}
+.menu_04   {
+    float: left;
+    margin-left: 68px;
+}
+.menu_05   {
+    float: left;
+    margin-left: 62px;
+}
+.menu_06 {
+    float: left;
+    margin-left: 62px;
+}
+.menu_box {
+    width: 1800px;
+    height: 80px;
+    padding-top: 15px;
+}
+
+
+
+
+.maintext {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: #ffb679;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+}
+.cafe .box1 img {
+    width: 743px;
+}
+.cafe .box1 {
+    width: 743px;
+    float: left;
+}
+
+.contents .first img {
+    float: left;
+    margin-left: 607px;
+}
+
+.first {
+    width: 1080px;
+    height: 587px;
+}
+.cafe .box2 img {
+    float: right;
+}
+.cafe .box3 img {
+    float: right;
+}
+.cafe .box4 img {
+    float: right;
+}
+.do1 img {
+    margin-left: 154px;
+}
+.do2 img {
+    width: auto;
+    margin-left: 12px;
+}
+.do2 {
+    width: 1800px;
+    float: left;
+}
+.container .contents .car {
+    margin-left: 40px;
+}
+.contents .airbnb img {
+    margin-left: 505px;
+}
+.contents2 .market2 img {
+    margin-left: 47px;
+}
+.contents .market1 img {
+    margin-left: 47px;
+
+
+}
+.contents2 .market1 {
+    width: 1800px;
+    height: 538px;
+}
+.contents .cat img {
+    margin-left: 198px;
+}
